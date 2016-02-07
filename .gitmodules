@@ -10,4 +10,4 @@
 	url = https://github.com/headupinclouds/thread-pool-cpp.git
 [submodule "src/3rdparty/compute"]
 	path = src/3rdparty/compute
-	url = https://github.com/headupinclouds/compute.git
+	url = git@github.com:headupinclouds/compute.git
