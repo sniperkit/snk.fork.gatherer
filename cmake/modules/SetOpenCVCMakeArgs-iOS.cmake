@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 macro(set_opencv_cmake_args_ios)
     set(OPENCV_CMAKE_ARGS 
       #### Repeat HUNTER ARGS ###

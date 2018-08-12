@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 /**
  * Copyright (c) 2012-2014 Microsoft Mobile.
  */

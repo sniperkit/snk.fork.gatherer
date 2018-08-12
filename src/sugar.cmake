@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This file generated automatically by:
 #   generate_sugar_files.py
 # see wiki for more info:
